@@ -1,46 +1,22 @@
-Entity Framework Training: Mastering the ADO.NET Entity Framework
+## Training Overview
 
-**Course Number: **ADO-208\
-**Duration: **4 days\
+Accelebrate’s Mastering the ADO.NET Entity Framework training teaches developers how to build the data tier of their applications using Microsoft’s powerful object-relational mapping (ORM) framework.
 
-**Entity Framework Training Overview**
+**Note: **This Entity Framework class can be tailored for version 5, 6, or later of the framework.
 
-Accelebrate’s Mastering the ADO.NET Entity Framework training teaches
-developers how to build the data tier of their applications using
-Microsoft’s powerful object-relational mapping (ORM) framework.
+## Training Prerequisites
 
-**Note: **This Entity Framework class can be tailored for version 5, 6,
-or later of the framework.
+All attendees must be experienced .NET developers and have prior experience with ADO.NET and basic SQL.
 
-**Entity Framework Training Prerequisites**
+## Hands-on/Lecture Ratio
 
-All attendees must be experienced .NET developers and have prior
-experience with ADO.NET and basic SQL.
+This Entity Framework class is 60% hands-on, 40% lecture, with the longest lecture segments lasting for 25 minutes.
 
-**Hands-on/Lecture Ratio**
+## Training Materials
 
-This Entity Framework class is 60% hands-on, 40% lecture, with the
-longest lecture segments lasting for 25 minutes.
+All Entity Framework training attendees receive a copy of Microsoft's *Microsoft ADO.NET Entity Framework Step by Step* and comprehensive courseware covering all topics in the course
 
-**Entity Framework Training Materials**
-
-All Entity Framework training attendees receive a copy of
-Microsoft's *Microsoft ADO.NET Entity Framework Step by Step* and
-comprehensive courseware covering all topics in the course
-
-**Software Needed on Each Student PC**
-
--   Windows XP or later, with the latest service pack updates and at
-    > least 3 GB RAM
-
--   Visual Studio 2012 or later (note: Visual Studio 2013 requires
-    > Windows 7 or later)
-
--   SQL Server Express 2012
-
--   Related databases and lab files that Accelebrate will provide
-
-**Entity Framework Training Objectives**
+## Training Objectives
 
 All students will:
 
@@ -60,7 +36,7 @@ All students will:
 
 -   Perform advanced Entity Framework management tasks
 
-**Entity Framework Training Outline**
+## Training Outline
 
 -   Introducing the Entity Framework
 

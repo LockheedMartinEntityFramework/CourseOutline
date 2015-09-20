@@ -48,16 +48,6 @@ All students will:
 
     -   Developing a simple Entity Framework example
 
--   Looking more closely at queries
-
-    -   Defining a basic query
-
-    -   Creating specific queries
-
-    -   Combining and summarizing data
-
-    -   Grouping data
-
 -   Choosing a workflow
 
     -   Understanding the code-first workflow
@@ -76,6 +66,16 @@ All students will:
 
     -   Creating a database-first example
 
+-   Looking more closely at queries
+
+    -   Defining a basic query
+
+    -   Creating specific queries
+
+    -   Combining and summarizing data
+
+    -   Grouping data
+    
 -   Generating and using objects
 
     -   Understanding the Entity objects
